@@ -2,6 +2,7 @@ import { useState, useRef, useEffect } from "react";
 
 const DEFAULT_DISHES: string[] = [
   "Dosa / Idli",
+  "Sabudana Khichdi/wada",
   "Dudhi chana nu shak & roti",
   "Egg dishes",
   "Shakshuka",
